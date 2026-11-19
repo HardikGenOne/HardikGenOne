@@ -11,4 +11,7 @@ I build tools for quantitative research, systematic trading, and equity analysis
 
 Python · pandas · NumPy · FastAPI · Pine Script · React · SQL
 
-**Contact** · Telegram [@HardikGenOne](https://t.me/HardikGenOne)
+**Contact** 
+· LinkedIn https://www.linkedin.com/in/hardik-maheshwari01/
+· Telegram [@HardikGenOne](https://t.me/HardikGenOne)
+
